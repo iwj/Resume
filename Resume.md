@@ -39,7 +39,7 @@
 
 ## Capricorn 内容分享站
 
-一个使用 Tornado 框架开发的内容分享站点，主要目的是练手。托管在 GitHub 上：https://github.com/iwj/capricorn
+一个使用 Tornado 框架开发的内容分享站点，主要目的是练手。
 
 网站还在不断完善中，比较粗糙，功能较简单。使用了一些开源技术和工具，引入了 Bootstrap 等前端框架，使用第三方富文本编辑器 wangEditor ，使用 MySQL 存储数据。
 
