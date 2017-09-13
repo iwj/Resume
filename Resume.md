@@ -13,8 +13,10 @@
 - 吴健 / 男 / 1993 / 浙江台州
 - 应届毕业生（毕业时间：2017年7月）
 - 博客：https://iwj.github.io/
-- 期望职位：Python 程序员（类似职位都可）
+- 期望职位：Python 程序员
 - 期望城市：杭州（目前在杭州，可快速到岗）
+- 英语水平：CET-4
+- 开发水平：熟悉 Web 开发，生疏领域需要查阅文档或使用 Google 等工具
 
 ---
 
@@ -75,7 +77,8 @@
 - Web 开发：HTML/CSS/JavaScript/Tornado/Bootstrap
 - 数据库：MySQL
 - 版本管理：Git Flow
-- 其他：Vim/Ubuntu/Photoshop
+- 工具：Vim/Ubuntu/Photoshop
+- 其他：能快速融入团队，善于沟通交流
 
 ---
 
