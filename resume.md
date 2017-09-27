@@ -62,16 +62,18 @@
 # 技能清单
 
 - Web 开发：HTML/CSS/JavaScript/Tornado/Bootstrap
-- Python 第三方库：Requests/openpyxl/bs4
+- Python 第三方库：Requests/openpyxl/bs4/PIL
 - 数据库：MySQL
 - 版本管理：Git
 - 工具与效率：Vim/Ubuntu/Photoshop
 
 ---
 
-# 个人评价
+# 自我认识
 
-
+- 性格内敛，做事风格较为保守，喜欢安静，喜欢思考
+- 有轻微强迫症，容易沉迷于细节而耗费过多时间，正努力改善这点
+- 热爱互联网行业，梦想是成为 Growth Hacker
 
 ---
 
